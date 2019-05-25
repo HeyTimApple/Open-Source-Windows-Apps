@@ -6,6 +6,7 @@ A place to cataloug different Open Source apps available within the Windows ecos
 * [Audacious](https://audacious-media-player.org/) - Audacious is an open source audio player.
 * [Audacity](https://www.audacityteam.org/) - Free, open source, cross-platform software for recording and editing sounds.
 * [Clementine](https://www.clementine-player.org/) - is a modern music player and library organizer.
+* [DeaDBeef](http://deadbeef.sourceforge.net/) - A modular audio player for GNU/Linux, *BSD, OpenSolaris, macOS, Windows, and other UNIX-like systems.
 * [Kodi](https://kodi.tv/) - Kodi (formerly XBMC) is a free and open source media player application.
 * [Qtractor](https://qtractor.sourceforge.io/qtractor-index.html#Downloads) - Audio/MIDI multi-track sequencer application written in C++ with the Qt framework.
 * [VLC](https://www.videolan.org/vlc/) - Multimedia player and framework that plays DVDs, Audio CDs, VCDs, and various streaming protocols.
