@@ -3,6 +3,7 @@ A place to cataloug different Open Source apps available within the Windows ecos
 
 **Audio**
 
+* [Audacious](https://audacious-media-player.org/) - Audacious is an open source audio player.
 * [Audacity](https://www.audacityteam.org/) - Free, open source, cross-platform software for recording and editing sounds.
 * [Clementine](https://www.clementine-player.org/) - is a modern music player and library organizer.
 * [Kodi](https://kodi.tv/) - Kodi (formerly XBMC) is a free and open source media player application.
