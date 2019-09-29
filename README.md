@@ -1,5 +1,5 @@
 # Open-Source-Windows-Apps
-A place to cataloug different Open Source apps available within the Windows ecosystem. Please feel free to contribute. Simply put the app and a Link it to it's page. Thanks
+A place to catalog different Open Source apps available within the Windows ecosystem. Please feel free to contribute. Simply put the app and a Link it to it's page. Thanks
 
 **Audio**
 
