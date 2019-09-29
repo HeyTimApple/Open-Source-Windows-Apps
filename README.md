@@ -41,6 +41,7 @@ A place to cataloug different Open Source apps available within the Windows ecos
 * [Atom](https://atom.io/) - A hackable text editor for the 21st Century
 * [Android Studio](https://developer.android.com/studio/index.html) - The official IDE for Android based on the IntelliJ platform.
 * [Brackets](http://brackets.io/) - A modern, open source text editor that understands web design.
+* [Choclatey](https://chocolatey.org/) - A package manager for Windows.
 * [DB Browser for SQLite](https://sqlitebrowser.org/) - High quality, visual, open source tool to create, design, and edit database files compatible with SQLite.
 * [Eclipse](https://www.eclipse.org/downloads/) - A powerful IDE.
 * [FileZilla](https://filezilla-project.org/) - FTP, FTPS and SFTP client.
